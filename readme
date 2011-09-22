@@ -11,8 +11,7 @@ Usage
 -----
 
     git clone git://github.com/groupf/rivella.git
-    cd rivella
-    mvn install
+
 
 Features
 --------
