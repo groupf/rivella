@@ -1,0 +1,27 @@
+Java / Maven Groupf Projekt
+==============================
+
+Installation
+------------
+
+Fork this projekt using the github functuality.
+
+
+Usage
+-----
+
+    git clone git://github.com/groupf/rivella.git
+
+
+Features
+--------
+
+* Java 1.6
+* Maven
+* Junit
+
+
+Continuouse Integration
+-----------------------
+
+* Jenkins
