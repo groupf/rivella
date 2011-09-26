@@ -17,7 +17,7 @@ Features
 --------
 
 * Java 1.6
-* Maven
+* Maven 2.2.1
 * Junit
 
 
